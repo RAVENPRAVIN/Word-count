@@ -28,7 +28,7 @@ End the program
 from google.colab import drive
 drive.mount('/content/drive')
 
-f=open('mano.txt','r')
+f=open('pravin.txt','r')
 b=f.read()
 d=0
 c=b.split(' ')
